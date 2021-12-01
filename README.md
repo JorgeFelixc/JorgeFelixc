@@ -44,9 +44,9 @@
 ### About me 😄 
 ```
   const  = {
-    dateBirth: '23/12/1997',
-    location: 'MX',
-    languages: ['ES', 'ENG'],
+    dateBirth: "23/12/1997",
+    location: "MX",
+    languages: ["ES", "ENG"],
     yearsOfEXperience: 3,
     personalInterest: [
       "Video Games",
