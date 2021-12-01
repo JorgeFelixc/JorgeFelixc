@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello, you welcome!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://mx.linkedin.com/in/jorge-felix-cazarez-69a783170)
+
+# I'm Jorge Felix from Mexico. Fullstack Developer | Graphic development enthusiast 
+
+Currently working as Software Engineer in Digital OnUs by TechMahindra and in my personal 
+projects keep growing as developer.
+
+-
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeFelixc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
 
 <!--
 **JorgeFelixc/JorgeFelixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
