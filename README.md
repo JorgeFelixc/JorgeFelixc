@@ -43,7 +43,7 @@
 
 ### About me 😄 
 ```
-  const  = {
+  const PersonalInformation = {
     dateBirth: "23/12/1997",
     location: "MX",
     languages: ["ES", "ENG"],
