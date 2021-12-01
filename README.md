@@ -1,6 +1,6 @@
-### Hello, you welcome!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Hello, you welcome!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=JorgeFelixc)
 
-![linkedin](https://mx.linkedin.com/in/jorge-felix-cazarez-69a783170)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 *I'm Jorge Felix from Mexico. Fullstack Developer | Graphic development enthusiast*
 
