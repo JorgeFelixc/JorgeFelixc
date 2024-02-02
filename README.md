@@ -47,7 +47,7 @@
     dateBirth: "23/12/1997",
     location: "MX",
     languages: ["ES", "ENG"],
-    yearsOfEXperience: 3,
+    yearsOfEXperience: "since 2018",
     personalInterest: [
       "Video Games",
       "Music",
